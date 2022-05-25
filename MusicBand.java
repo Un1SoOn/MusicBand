@@ -41,6 +41,6 @@ public class MusicBand {
 
     @Override
     public String toString() {
-        return "Название группы: "+getName()+", год создания: "+getYear()+", участники группы: "+getGroupMembers();
+        return "РќР°Р·РІР°РЅРёРµ РіСЂСѓРїРїС‹: "+getName()+", РіРѕРґ РѕСЃРЅРѕРІР°РЅРёСЏ "+getYear()+", СѓС‡Р°СЃС‚РЅРёРєРё "+getGroupMembers();
     }
 }
