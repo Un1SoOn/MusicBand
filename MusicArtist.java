@@ -19,6 +19,6 @@ public class MusicArtist {
 
     @Override
     public String toString() {
-        return "Имя участника: "+getName()+", возраст: "+getYears();
+        return "РРјСЏ "+getName()+", РІРѕР·СЂР°СЃС‚: "+getYears();
     }
 }
